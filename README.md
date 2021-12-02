@@ -30,7 +30,7 @@ I'm a SysAdmin/IT Consultant, working/have worked in Healthcare and Finance sect
 * [Radio-Qt5](https://aptrinh.js.org/radio-qt5.html) - Sat, 09 Jan 2021
 <!-- writing ends -->
 
-View all (<!-- writing_count starts -->16<!-- writing_count ends -->) posts @ [https://aptrinh.js.org](aptrinh.js.org)
+View all (<!-- writing_count starts -->15<!-- writing_count ends -->) posts @ [aptrinh.js.org](https://aptrinh.js.org)
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/anhphantrinh/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Phan Trinh | LinkedIn" width="21px"/></a>
