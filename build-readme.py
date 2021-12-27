@@ -17,7 +17,7 @@ def replace_writing(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    entries = feedparser.parse('https://rss.app/feeds/kaM25VIvzIrVuC5r.xml')['entries']
+    entries = feedparser.parse('https://rss.app/feeds/KO8LO7em8eCLpBpS.xml')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
     return [
