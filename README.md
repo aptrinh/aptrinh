@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Phan Trinh
+## Hi, my name is Phan
 
 I'm a SysAdmin/IT Consultant, working/have worked in Automotive, Healthcare and Finance sectors. I'm a big *Phan* of network defense.
 
-- 📝 [Blog](https://aptrinh.js.org/): Where I write things about gaming or some cool tech things    
-- 🌱 I'm learning Russian, Norwegian (Bokmal) and Japanese, along with automation on Github. This README is automated, but currently hampered by RSS.app (I'll fix it soon I promise)!
+-  [Blog](https://aptrinh.js.org/): Where I write things about gaming or some cool tech things    
+-  I'm learning Russian, Norwegian (Bokmal) and Japanese, along with automation on Github. This README is automated, but currently hampered by RSS.app (I'll fix it soon I promise)!
 
-### 💼 Technical Skills
+###  Technical Skills
 ![Arch](https://img.shields.io/badge/OS-Arch%20Linux-informational?logo=arch-linux&style=flat) 
 ![Cent OS](https://img.shields.io/badge/OS-CentOS-002260?style=flat&logo=centos) 
 ![Mac OS](https://img.shields.io/badge/OS-macOS-000000?style=flat&logo=macos) 
@@ -20,7 +20,7 @@ I'm a SysAdmin/IT Consultant, working/have worked in Automotive, Healthcare and 
 ![ApacheCassandra](https://img.shields.io/badge/DB-Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra) 
 ![Redis](https://img.shields.io/badge/DB-Redis-%23DD0031.svg?style=flat&logo=redis)
 
-### 📝 Recent Writing
+###  Recent Writing
 
 <!-- writing starts -->
 * [So Amazon shipped you](https://rss.app/articles/cb4e791f6f6d729c12444c5076d8bdc5010d5e2e0d38fde3dbf2860996cb61d5f251ad483484) - Mon, 27 Jun 2022
